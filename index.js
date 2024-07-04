@@ -31,7 +31,7 @@ app.get("/", (req, res) => {
   res.status(200).send("<h1>Welcome to the Fandom App!</h1>");
 });
 
-const PORT = process.env.PORT || 3000;
+const PORT = process.env.PORT || 8000;
 
 app.listen(PORT, () => {
   connectDB();
