@@ -1,0 +1,1200 @@
+[
+  {
+    "_id": 1,
+    "title": "Inception",
+    "poster_path":"https://m.media-amazon.com/images/I/71DwIcSgFcS.jpg",
+    "release_date": "2010-07-16",
+    "genre": ["Action", "Sci-Fi", "Thriller"],
+    "overview": "A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a CEO.",
+    "rating": 8.8,
+    "type": "Movie",
+    "director": "Christopher Nolan",
+    "cast": [
+      "Leonardo DiCaprio",
+      "Joseph Gordon-Levitt",
+      "Marion Cotillard",
+      "Tom Hardy",
+      "Cillian Murphy"
+    ],
+    "runtime": 148,
+    "synopsis": "Dom Cobb, a skilled thief, is offered a chance to return home by planting an idea in the mind of a powerful CEO. But Cobb's troubled past threatens to sabotage the mission.",
+    "trailer": {
+      "url": "https://www.example.com/inception-trailer",
+      "source": "YouTube"
+    },
+    "critic_reviews": [
+      {
+        "source": "Rotten Tomatoes",
+        "score": "87%"
+      },
+      {
+        "source": "Metacritic",
+        "score": "88/100"
+      }
+    ],
+    "awards": [
+      "Academy Award for Best Cinematography",
+      "Academy Award for Best Sound Editing",
+      "Academy Award for Best Sound Mixing",
+      "Academy Award for Best Visual Effects"
+    ]
+  },
+  {
+    "_id": 2,
+    "title": "Breaking Bad",
+    "poster_path":"https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/3a1654116269619.605e35b102e33.jpg",
+    "release_date": "2008-01-20",
+    "genre": ["Crime", "Drama", "Thriller"],
+    "overview": "A high school chemistry teacher turned methamphetamine manufacturer partners with a former student to secure his family's future.",
+    "rating": 9.5,
+    "type": "TV Series",
+    "creator": "Vince Gilligan",
+    "cast": [
+      "Bryan Cranston",
+      "Aaron Paul",
+      "Anna Gunn",
+      "Dean Norris",
+      "Giancarlo Esposito"
+    ],
+    "seasons": 5, 
+    "episodes": 62, 
+    "synopsis": "Walter White, a terminally ill high school chemistry teacher, teams up with his former student, Jesse Pinkman, to produce and sell methamphetamine in order to secure his family's financial future after his death.",
+      "url": "https://www.example.com/breaking-bad-trailer", 
+      "source": "YouTube",
+     "critic_reviews": [
+      {
+        "source": "Rotten Tomatoes",
+        "score": "87%"
+      },
+      {
+        "source": "Metacritic",
+        "score": "88/100"
+      }
+    ],
+    "awards": [
+      "Primetime Emmy Award for Outstanding Drama Series (2013, 2014)",
+      "Primetime Emmy Award for Outstanding Lead Actor in a Drama Series (Bryan Cranston, 2008, 2010, 2011, 2014)",
+      "Primetime Emmy Award for Outstanding Supporting Actor in a Drama Series (Aaron Paul, 2010, 2012, 2013)"
+    ]
+  },
+  {
+    "_id": 3,
+    "title": "The Matrix",
+    "poster_path":"https://image.tmdb.org/t/p/original/f89U3ADr1oiB1s9GkdPOEpXUk5H.jpg",
+    "release_date": "1999-03-31",
+    "genre": ["Action", "Sci-Fi"],
+    "overview": "A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.",
+    "rating": 8.7,
+    "type": "Movie",
+    "director": "The Wachowskis",
+    "cast": [
+      "Keanu Reeves",
+      "Laurence Fishburne",
+      "Carrie-Anne Moss",
+      "Hugo Weaving"
+    ],
+    "runtime": 136,
+    "synopsis": "A computer hacker named Neo discovers the world he lives in is actually a computer simulation. He is recruited by Morpheus and Trinity to join their fight against the machines that have enslaved humanity.",
+    "trailer": {
+      "url": "https://www.example.com/the-matrix-trailer",
+      "source": "YouTube"
+    },
+    "critic_reviews": [
+      {
+        "source": "Rotten Tomatoes",
+        "score": "88%"
+      },
+      {
+        "source": "Metacritic",
+        "score": "73/100"
+      }
+    ],
+    "awards": [
+      "Academy Award for Best Visual Effects",
+      "Academy Award for Best Sound Editing",
+      "Academy Award for Best Film Editing",
+      "Academy Award for Best Sound Mixing"
+    ]
+  },
+  {
+    "_id": 4,
+    "title": "Stranger Things",
+    "poster_path":"https://rukminim2.flixcart.com/image/850/1000/jr3t5e80/poster/a/w/f/medium-stranger-things-poster-for-room-office-13-inch-x-19-inch-original-imafcww8v99r4qhh.jpeg?q=20&crop=false",
+    "release_date": "2016-07-15",
+    "genre": ["Drama", "Fantasy", "Horror"],
+    "overview": "When a young boy disappears, his mother, a police chief, and his friends must confront terrifying supernatural forces in order to get him back.",
+    "rating": 8.8,
+    "type": "TV Series",
+    "creators": ["Matt Duffer", "Ross Duffer"], 
+    "cast": [
+      "Winona Ryder",
+      "David Harbour",
+      "Millie Bobby Brown",
+      "Finn Wolfhard",
+      "Caleb McLaughlin",
+      "Gaten Matarazzo",
+      "Natalia Dyer",
+      "Charlie Heaton"  
+    ],
+    "seasons": 4, 
+    "episodes": 34,
+    "synopsis": "In 1980s Indiana, a young boy named Will Byers vanishes under mysterious circumstances. His mother, Joyce, and his friends, Mike, Dustin, and Lucas, begin their own desperate search for answers. As they search for Will, they stumble upon a secret government lab, terrifying supernatural forces, and a strange little girl named Eleven who may be the key to everything.",
+    "trailer": {
+      "url": "https://www.example.com/stranger-things-trailer", 
+      "source": "YouTube"
+    }
+  },
+  {
+    "_id": 5,
+    "title": "The Dark Knight",
+    "poster_path":"https://www.movieposters.com/cdn/shop/products/d3401e97e249c56ed1c11a13dd02b47f_500x.jpg?v=1573652550",
+    "release_date": "2008-07-18",
+    "genre": ["Action", "Crime", "Drama"],
+    "overview": "When the menace known as the Joker emerges from his mysterious past, he wreaks havoc and chaos on the people of Gotham.",
+    "rating": 9.0,
+    "type": "Movie",
+    "director": "Christopher Nolan",
+    "cast": [
+      "Christian Bale",
+      "Heath Ledger",
+      "Aaron Eckhart",
+      "Gary Oldman",
+      "Maggie Gyllenhaal"
+    ],
+    "runtime": 152, 
+    "synopsis": "Batman takes on a ruthless criminal mastermind, the Joker, who throws Gotham City into anarchy.", 
+    "trailer": {
+      "url": "https://www.example.com/the-dark-knight-trailer", 
+      "source": "YouTube"
+    },
+    "critic_reviews": [
+      {
+        "source": "Rotten Tomatoes",
+        "score": "94%"
+      },
+      {
+        "source": "Metacritic",
+        "score": "88/100"
+      }
+    ],
+    "awards": [
+      "Academy Award for Best Supporting Actor (Heath Ledger)",
+      "Academy Award for Best Sound Editing"
+    ]
+  },
+  {
+    "_id": 6,
+    "title": "Game of Thrones",
+    "poster_path":"https://d28hgpri8am2if.cloudfront.net/book_images/onix/cvr9781608872190/game-of-thrones-9781608872190_hr.jpg",
+    "release_date": "2011-04-17",
+    "genre": ["Action", "Adventure", "Drama"],
+    "overview": "Nine noble families wage war against each other in order to gain control over the mythical land of Westeros.",
+    "rating": 9.3,
+    "type": "TV Series",
+    "creators": ["David Benioff", "D. B. Weiss"], 
+    "cast": [
+      "Sean Bean",
+      "Peter Dinklage",
+      "Emilia Clarke",
+      "Kit Harington",
+      "Lena Headey",
+      "Maisie Williams",
+      "Nikolaj Coster-Waldau",
+      "Sophie Turner" 
+    ],
+    "seasons": 8, 
+    "episodes": 73, 
+    "synopsis": "Seven noble families fight for control of the continent of Westeros, while an ancient enemy returns in the farthest reaches of the north. Meanwhile, a queen plots to reclaim her throne from across the narrow sea.",
+    "trailer": {
+      "url": "https://www.example.com/game-of-thrones-trailer", 
+      "source": "YouTube"
+    }
+  },
+  {
+    "_id": 7,
+    "title": "Interstellar",
+    "poster_path":"https://image.tmdb.org/t/p/original/gEU2QniE6E77NI6lCU6MxlNBvIx.jpg",
+    "release_date": "2014-11-07",
+    "genre": ["Adventure", "Drama", "Sci-Fi"],
+    "overview": "A team of explorers travel through a wormhole in space in an attempt to ensure humanity's survival.",
+    "rating": 8.6,
+    "type": "Movie",
+    "director": "Christopher Nolan", 
+    "cast": [
+      "Matthew McConaughey",
+      "Anne Hathaway",
+      "Jessica Chastain",
+      "Michael Caine",
+      "Matt Damon" 
+    ],
+    "runtime": 169, 
+    "synopsis": "Earth is a dying planet, and a team of astronauts travel through a wormhole in search of a new home for humanity. Their journey takes them through dangerous terrain and forces them to confront the nature of time and space.",  
+    "trailer": {
+      "url": "https://www.example.com/interstellar-trailer", 
+      "source": "YouTube"
+    },
+    "critic_reviews": [
+      {
+        "source": "Rotten Tomatoes",
+        "score": "72%"
+      },
+      {
+        "source": "Metacritic",
+        "score": "77/100"
+      }
+    ],
+    "awards": [
+      "Academy Award for Best Visual Effects"
+    ]
+  },
+  {
+    "_id": 8,
+    "title": "The Office",
+    "poster_path":"https://ih1.redbubble.net/image.1407331942.4547/flat,750x,075,f-pad,750x1000,f8f8f8.u1.jpg",
+    "release_date": "2005-03-24",
+    "genre": ["Comedy"],
+    "overview": "A mockumentary on a group of typical office workers, where the workday consists of ego clashes, inappropriate behavior, and tedium.",
+    "rating": 8.9,
+    "type": "TV Series",
+    "creators": ["Greg Daniels", "Ricky Gervais", "Stephen Merchant"], 
+    "cast": [
+      "Steve Carell",
+      "Rainn Wilson",
+      "John Krasinski",
+      "Jenna Fischer",
+      "Bryan Cranston"  
+    ],
+    "seasons": 9,
+    "episodes": 201, 
+    "synopsis": "The Office follows the everyday work lives of office employees at the Scranton, Pennsylvania branch of the fictional Dunder Mifflin Paper Company. Their regional manager, Michael Scott, is a quirky, clueless but optimistic boss who often behaves more like a friend than a superior. The show is filmed in a mockumentary style, with the characters aware they are being filmed but often oblivious to how their actions are perceived.", 
+    "trailer": {
+      "url": "https://www.example.com/the-office-trailer", 
+      "source": "YouTube"
+    }
+  },
+  {
+    "_id": 9,
+    "title": "Pulp Fiction",
+    "poster_path":"https://cdn.europosters.eu/image/750/posters/pulp-fiction-cover-i1288.jpg",
+    "release_date": "1994-10-14",
+    "genre": ["Crime", "Drama"],
+    "overview": "The lives of two mob hitmen, a boxer, a gangster and his wife, and a pair of diner bandits intertwine in four tales of violence and redemption.",
+    "rating": 8.9,
+    "type": "Movie",
+    "director": "Quentin Tarantino",
+    "cast": [
+      "John Travolta",
+      "Samuel L. Jackson",
+      "Uma Thurman",
+      "Bruce Willis",
+      "Tim Roth",
+      "Ving Rhames",
+      "Harvey Keitel" 
+    ],
+    "runtime": 154, 
+    "synopsis": "A series of interrelated stories unfold in Los Angeles’ criminal underworld, weaving together the lives of hit men, gangsters, their wives and a boxer.  Violence and redemption intertwine in a Tarantino-esque tapestry.",
+    "trailer": {
+      "url": "https://www.example.com/pulp-fiction-trailer", 
+      "source": "YouTube"
+    },
+    "critic_reviews": [
+      {
+        "source": "Rotten Tomatoes",
+        "score": "94%"
+      },
+      {
+        "source": "Metacritic",
+        "score": "94/100"
+      }
+    ],
+    "awards": [
+      "Academy Award for Best Original Screenplay",
+      "Academy Award for Best Actor in a Supporting Role (Samuel L. Jackson)"
+    ]
+  },
+  {
+    "_id": 10,
+    "title": "Friends",
+    "poster_path":"https://www.postergully.com/cdn/shop/products/LowRes_1Friends.jpg?v=1678204822",
+    "release_date": "1994-09-22",
+    "genre": ["Comedy", "Romance"],
+    "overview": "Follows the personal and professional lives of six twenty to thirty-something-year-old friends living in Manhattan.",
+    "rating": 8.9,
+    "type": "TV Series",
+    "creators": ["David Crane", "Marta Kauffman"], 
+    "cast": [
+      "Jennifer Aniston",
+      "Courteney Cox",
+      "Lisa Kudrow",
+      "Matt LeBlanc",
+      "Matthew Perry",
+      "David Schwimmer" 
+    ],
+    "seasons": 10, 
+    "episodes": 236, 
+    "synopsis": "Six friends in their 20s and 30s navigate life and love in Manhattan. Rachel Green, a runaway bride, finds herself starting over with her childhood friend Monica Geller, a chef. Monica's uptight brother, Ross Geller, is a paleontologist with a complicated romantic history. Their neighbor Phoebe Buffay, a quirky musician, and her childhood friend Chandler Bing, a sarcastic advertising executive, round out the group. Joey Tribbiani, an aspiring actor and ladies' man, completes the close-knit group as they face career challenges, romantic entanglements, and the joys and tribulations of friendship.",
+    "trailer": {
+      "url": "https://www.example.com/friends-trailer",
+      "source": "YouTube"
+    }
+  },
+  {
+    "_id": 11,
+    "title": "The Shawshank Redemption",
+    "poster_path":"https://m.media-amazon.com/images/I/71715eBi1sL._AC_UF894,1000_QL80_.jpg",
+    "release_date": "1994-09-23",
+    "genre": ["Drama"],
+    "overview": "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.",
+    "rating": 9.3,
+    "type": "Movie",
+    "director": "Frank Darabont", 
+    "cast": [
+      "Tim Robbins",
+      "Morgan Freeman",
+      "Bob Gunton",
+      "William Sadler",
+      "Clancy Brown" 
+    ],
+    "runtime": 142, 
+    "synopsis": "Andy Dufresne, a seemingly ordinary man convicted of murdering his wife, is sent to the notorious Shawshank prison. Over the course of decades, he befriends a fellow inmate, Ellis 'Red' Redding, and they find solace and strength in each other. Through acts of kindness, hope, and perseverance, Andy strives for redemption in a place where hope seems lost.", 
+    "trailer": {
+      "url": "https://www.example.com/shawshank-redemption-trailer",
+      "source": "YouTube"
+    },
+    "critic_reviews": [
+      {
+        "source": "Rotten Tomatoes",
+        "score": "99%"
+      },
+      {
+        "source": "Metacritic",
+        "score": "80/100"
+      }
+    ],
+    "awards": [
+      "Academy Award for Best Adapted Screenplay"
+    ]
+  },
+  {
+  "_id": 12,
+  "title": "Sherlock",
+  "poster_path":"https://cdn.europosters.eu/image/750/posters/sherlock-series-4-iconic-i33910.jpg",
+  "release_date": "2010-07-25",
+  "genre": ["Crime", "Drama", "Mystery"],
+  "overview": "A modern update finds the famous sleuth and his doctor partner solving crime in 21st century London.",
+  "rating": 9.1,
+  "type": "TV Series",
+  "creators": ["Steven Moffat", "Mark Gatiss"], 
+  "cast": [
+    "Benedict Cumberbatch",
+    "Martin Freeman",
+    "Amanda Abbington",
+    "Rupert Graves",
+    "Una Stubbs" 
+  ],
+  "seasons": 4, 
+  "episodes": 13, 
+  "synopsis": "Sherlock Holmes, a brilliant but arrogant consulting detective, uses his observational skills and logical deductions to solve complex mysteries in modern-day London. Alongside his flatmate, Dr. John Watson, they navigate a world of crime, secrets, and danger. Sherlock's genius mind and eccentric personality often clash with the traditional methods of Scotland Yard, but his results are undeniable.", 
+  "trailer": {
+    "url": "[invalid URL removed]", 
+    "source": "YouTube"
+  }
+},
+{
+  "_id": 13,
+  "title": "The Godfather",
+  "poster_path":"https://image.tmdb.org/t/p/original/wWJbBo5yjw22AIjE8isBFoiBI3S.jpg",
+  "release_date": "1972-03-24",
+  "genre": ["Crime", "Drama"],
+  "overview": "The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son.",
+  "rating": 9.2,
+  "type": "Movie",
+  "director": "Francis Ford Coppola",
+  "cast": [
+    "Marlon Brando",
+    "Al Pacino",
+    "James Caan",
+    "Richard Conte",
+    "Sterling Hayden" 
+  ],
+  "runtime": 175, 
+  "synopsis": "Vito Corleone, the aging patriarch of the Corleone family, unwillingly draws his youngest son, Michael, into the violent world of organized crime. As tensions rise between the Corleones and rival families, Michael slowly transforms from reluctant outsider to ruthless mafia boss.", 
+  "trailer": {
+    "url": "https://www.example.com/the-godfather-trailer", 
+    "source": "YouTube"
+  }
+},
+{
+  "_id": 14,
+  "title": "The Mandalorian",
+  "poster_path":"https://m.media-amazon.com/images/I/71FuoaWFGhL._AC_UF1000,1000_QL80_.jpg",
+  "release_date": "2019-11-12",
+  "genre": ["Action", "Adventure", "Fantasy"],
+  "overview": "The travels of a lone bounty hunter in the outer reaches of the galaxy, far from the authority of the New Republic.",
+  "rating": 8.8,
+  "type": "TV Series",
+  "creators": ["Jon Favreau"], 
+  "cast": [
+    "Pedro Pascal",
+    "Gina Carano",
+    "Carl Weathers",
+    "Giancarlo Esposito",
+    "Ming-Na Wen" 
+  ],
+  "seasons": 2, 
+  "episodes": 16,
+  "synopsis": "Five years after the fall of the Empire, a Mandalorian bounty hunter travels the outer reaches of the galaxy, far from the reach of the New Republic. He is tasked with capturing a mysterious child, but his world is turned upside down when he decides to protect the infant instead. The Mandalorian and the Child form an unlikely bond as they face dangerous enemies and navigate a complex galaxy in the aftermath of the Galactic Civil War.", 
+  "trailer": {
+    "url": "https://www.example.com/the-mandalorian-trailer",
+    "source": "YouTube"
+  }
+},
+{
+  "_id": 15,
+  "title": "Parasite",
+  "poster_path":"https://m.media-amazon.com/images/I/81-rG+CAzuL._AC_UF1000,1000_QL80_.jpg",
+  "release_date": "2019-05-30",
+  "genre": ["Comedy", "Drama", "Thriller"],
+  "overview": "Greed and class discrimination threaten the newly formed symbiotic relationship between the wealthy Park family and the destitute Kim clan.",
+  "rating": 8.6,
+  "type": "Movie",
+  "director": "Bong Joon-ho",
+  "cast": [
+    "Song Kang-ho",
+    "Lee Sun-kyun",
+    "Cho Yeo-jeong",
+    "Choi Woo-shik",
+    "Park So-dam" 
+  ],
+  "runtime": 132, 
+  "synopsis": "The Kim family, all unemployed, skillfully scheme to become employed by the wealthy Park family. Ki-woo, the son, gets hired as an English tutor for the Parks' daughter, Da-hye. One by one, the Kims strategically maneuver their way into the household, each becoming indispensable to the Parks. However, their parasitic existence is threatened when a hidden secret from the Parks' past comes to light.", 
+  "trailer": {
+    "url": "[invalid URL removed]", 
+    "source": "YouTube"
+  },
+  "critic_reviews": [
+    {
+      "source": "Rotten Tomatoes",
+      "score": "99%"
+    },
+    {
+      "source": "Metacritic",
+      "score": "96/100"
+    }
+  ],
+  "awards": [
+    "Academy Award for Best Picture",
+    "Academy Award for Best Director",
+    "Academy Award for Best International Feature Film",
+    "Academy Award for Best Original Screenplay"
+  ]
+},
+{
+  "_id": 16,
+  "title": "The Simpsons",
+  "poster_path":"https://i.pinimg.com/736x/c7/b4/b0/c7b4b0c0265a5bc34089e305f507492f.jpg",
+  "release_date": "1989-12-17",
+  "genre": ["Animation", "Comedy"],
+  "overview": "The satiric adventures of a working-class family in the misfit city of Springfield.",
+  "rating": 8.7,
+  "type": "TV Series",
+  "creators": ["Matt Groening"], 
+  "cast": [
+    "Dan Castellaneta",
+    "Julie Kavner",
+    "Nancy Cartwright",
+    "Yeardley Smith",
+    "Harry Shearer",
+    "Hank Azaria" 
+  ],
+  "seasons": 34, 
+  "episodes": 757, 
+  "synopsis": "The Simpsons is an animated sitcom satirizing American culture, the working class, television, and life in general. Set in the fictional town of Springfield, the show focuses on the Simpson family: Homer, Marge, Bart, Lisa, and Maggie. The Simpsons parodies American culture and society, television, and many aspects of life in general. It is one of the longest-running American sitcoms, the longest-running American animated series, and the longest-running scripted primetime television series in American history.", 
+  "trailer": {
+    "url": "https://www.example.com/the-simpsons-trailer", 
+    "source": "YouTube"
+  }
+},
+{
+  "_id": 17,
+  "title": "Avengers: Endgame",
+  "poster_path":"https://lumiere-a.akamaihd.net/v1/images/p_avengersendgame_19751_e14a0104.jpeg",
+  "release_date": "2019-04-26",
+  "genre": ["Action", "Adventure", "Drama"],
+  "overview": "After the devastating events of Avengers: Infinity War, the universe is in ruins. With the help of remaining allies, the Avengers assemble once more in order to reverse Thanos' actions and restore balance to the universe.",
+  "rating": 8.4,
+  "type": "Movie",
+  "directors": ["Anthony Russo", "Joe Russo"], 
+  "cast": [
+    "Robert Downey Jr.",
+    "Chris Evans",
+    "Mark Ruffalo",
+    "Chris Hemsworth",
+    "Scarlett Johansson",
+    "Jeremy Renner",
+    "Josh Brolin" 
+  ],
+  "runtime": 181, 
+  "synopsis": "Following the Thanos' victory in Avengers: Infinity War, the remaining Avengers are left to pick up the pieces of a broken world. With the help of remaining allies, they devise a final stand to reverse Thanos' actions and bring back those who were lost. The epic saga culminates in this showdown that will determine the fate of the universe.", 
+  "trailer": {
+    "url": "[invalid URL removed]", 
+    "source": "YouTube"
+  },
+  "critic_reviews": [
+    {
+      "source": "Rotten Tomatoes",
+      "score": "94%"
+    },
+    {
+      "source": "Metacritic",
+      "score": "83/100"
+    }
+  ]
+},
+{
+  "_id": 18,
+  "title": "The Crown",
+  "poster_path":"https://image.tmdb.org/t/p/original/1M876KPjulVwppEpldhdc8V4o68.jpg",
+  "release_date": "2016-11-04",
+  "genre": ["Biography", "Drama", "History"],
+  "overview": "Follows the political rivalries and romance of Queen Elizabeth II's reign and the events that shaped the second half of the twentieth century.",
+  "rating": 8.7,
+  "type": "TV Series",
+  "creator": "Peter Morgan",
+  "cast": [
+    "Claire Foy", 
+    "Olivia Colman", 
+    "Matt Smith", 
+    "Tobias Menzies", 
+    "Vanessa Kirby",
+    "Helena Bonham Carter",
+    "Imelda Staunton", 
+    "Jonathan Pryce" 
+  ], 
+  "seasons": 6, 
+  "episodes": 60, 
+  "synopsis": "The Crown dramatizes the political rivalries and romantic intrigues of Queen Elizabeth II's reign and the events that shaped the 20th century. From the aftermath of World War II through the Cold War, the Suez Crisis and the Falklands War, the series explores both the personal and political life of the Queen, as Britain passes through a period of enormous social change.",
+  "trailer": {
+    "url": "https://www.example.com/the-crown-trailer",
+    "source": "YouTube"
+  },
+  "awards": [
+    "Golden Globe Award for Best Television Series - Drama",
+    "Primetime Emmy Award for Outstanding Drama Series"
+  ]
+},
+{
+  "_id": 19,
+  "title": "Forrest Gump",
+  "poster_path":"https://image.tmdb.org/t/p/original/yu26pJwGFUyqTJWMWo1mMgBFJ0N.jpg",
+  "release_date": "1994-07-06",
+  "genre": ["Drama", "Romance"],
+  "overview": "The presidencies of Kennedy and Johnson, the Vietnam War, the Watergate scandal and other historical events unfold from the perspective of an Alabama man with an IQ of 75, whose only desire is to be reunited with his childhood sweetheart.",
+  "rating": 8.8,
+  "type": "Movie",
+  "director": "Robert Zemeckis", 
+  "cast": [
+    "Tom Hanks",
+    "Robin Wright",
+    "Gary Sinise",
+    "Mykelti Williamson",
+    "Sally Field" 
+  ],
+  "runtime": 142, 
+  "synopsis": "Forrest Gump, a man with a low IQ, joins the army for Vietnam War. Despite his challenges, his courage and kindness earn him respect. Forrest unwittingly finds himself in the middle of many significant historical events over the next few decades, but his main goal remains unchanged – to reunite with his childhood love, Jenny.", 
+  "trailer": {
+    "url": "[invalid URL removed]"
+  },
+  "critic_reviews": [
+    {
+      "source": "Rotten Tomatoes",
+      "score": "71%"
+    },
+    {
+      "source": "Metacritic",
+      "score": "82/100"
+    }
+  ],
+  "awards": [
+    "Academy Award for Best Picture",
+    "Academy Award for Best Actor (Tom Hanks)",
+    "Academy Award for Best Director"
+  ]
+},
+{
+  "_id": 20,
+  "title": "Black Mirror",
+  "poster_path":"https://image.tmdb.org/t/p/original/upFjswDl7vIP7vGvly49x2PkUXc.jpg",
+  "release_date": "2011-12-04",
+  "genre": ["Drama", "Sci-Fi", "Thriller"],
+  "overview": "An anthology series exploring a twisted, high-tech multiverse where humanity's greatest innovations and darkest instincts collide.",
+  "rating": 8.8,
+  "type": "TV Series",
+  "creators": ["Charlie Brooker", "Annabel Jones"],
+  "cast": [
+    "Multiple Cast"
+  ],
+  "seasons": 6, 
+  "episodes": 22, 
+  "synopsis": "Black Mirror is a dark anthology series that explores the potential negative impacts of new technologies. Each episode stands on its own, presenting a different unsettling scenario where humanity's reliance on technology has gone too far. The series delves into themes of social media addiction, digital surveillance, artificial intelligence, and the blurred lines between reality and simulation.", 
+  "trailer": {
+    "url": "https://www.example.com/black-mirror-trailer", 
+    "source": "YouTube"
+  },
+  "awards": [
+    "Primetime Emmy Award for Outstanding Television Movie"
+  ]
+},
+{
+  "_id": 31,
+  "title": "Dune",
+  "poster_path":"https://imageio.forbes.com/specials-images/imageserve/61116cea2313e8bae55a536a/-Dune-/0x0.jpg?format=jpg&width=960",
+  "release_date": "2021-10-22",
+  "genre": ["Adventure", "Drama", "Sci-Fi"],
+  "overview": "Feature adaptation of Frank Herbert's science fiction novel, about the son of a noble family entrusted with the protection of the most valuable asset and most vital element in the galaxy.",
+  "rating": 8.2,
+  "type": "Movie",
+  "director": "Denis Villeneuve", 
+  "cast": [
+    "Timothée Chalamet",
+    "Rebecca Ferguson",
+    "Oscar Isaac",
+    "Zendaya",
+    "Josh Brolin",
+    "Javier Bardem",
+    "Stellan Skarsgård" 
+  ],
+  "runtime": 155, 
+  "synopsis": "Paul Atreides, son of Duke Leto Atreides, travels to the dangerous desert planet Arrakis, the only source of the spice melange, a precious commodity that extends life, enhances consciousness, and fuels interstellar travel. Leto is entrusted with protecting the spice harvest, but soon finds himself in a fight for survival against the cruel Harkonnens who previously controlled Arrakis. As Paul embraces his destiny and awakens to his latent abilities, he must lead the Fremen, a native population of Arrakis, to fight against the oppression.", 
+  "trailer": {
+    "url": "https://www.example.com/dune-trailer", 
+    "source": "YouTube"
+  },
+  "critic_reviews": [
+    {
+      "source": "Rotten Tomatoes",
+      "score": "83%"
+    },
+    {
+      "source": "Metacritic",
+      "score": "70/100"
+    }
+  ]
+},
+{
+  "_id": 32,
+  "title": "Squid Game",
+  "poster_path":"https://i.pinimg.com/474x/70/1d/8b/701d8bbec132d765b8f73f4b8390a55d.jpg",
+  "release_date": "2021-09-17",
+  "genre": ["Action", "Drama", "Mystery"],
+  "overview": "Hundreds of cash-strapped contestants accept an invitation to compete in children's games for a tempting prize, but the stakes are deadly.",
+  "rating": 8.0,
+  "type": "TV Series",
+  "creators": ["Hwang Dong-hyuk"], 
+  "cast": [
+    "Lee Jung-jae",
+    "Park Hae-soo",
+    "Wi Ha-joon",
+    "Jung Ho-yeon",
+    "O Yeong-su"
+  ],
+  "seasons": 1, 
+  "episodes": 9, 
+  "synopsis": "Se ratusan peserta yang terlilit hutang ditawari kesempatan untuk memenangkan hadiah uang tunai yang menggiurkan dengan mengikuti permainan anak-anak. Namun, mereka segera menyadari bahwa permainan tersebut memiliki konsekuensi yang mematikan. Serial ini mengeksplorasi tema keserakahan, kemanusiaan, dan perjuangan para peserta untuk bertahan hidup dalam permainan yang brutal.", 
+  "synopsis_en": "Hundreds of cash-strapped players accept a strange invitation to compete in children's games. Inside a bizarre facility, torture and death await those who fail. With a tempting prize at stake, will they risk everything to play?", 
+  "trailer": {
+    "url": "[invalid URL removed]",
+    "source": "YouTube"
+  }
+},
+{
+  "_id": 33,
+  "title": "No Time to Die",
+  "poster_path":"https://cdn.europosters.eu/image/1300/posters/james-bond-no-time-to-die-profile-i114389.jpg",
+  "release_date": "2021-09-30",
+  "genre": ["Action", "Adventure", "Thriller"],
+  "overview": "James Bond has left active service. His peace is short-lived when Felix Leiter, an old friend from the CIA, turns up asking for help, leading Bond onto the trail of a mysterious villain armed with dangerous new technology.",
+  "rating": 7.4,
+  "type": "Movie",
+  "director": "Cary Joji Fukunaga", 
+  "cast": [
+    "Daniel Craig",
+    "Rami Malek",
+    "Léa Seydoux",
+    "Lashana Lynch",
+    "Ben Whishaw",
+    "Naomie Harris",
+    "Ralph Fiennes",
+    "Jeffrey Wright",
+    "Christoph Waltz"
+  ],
+  "runtime": 163, 
+  "synopsis": "James Bond has retired from active service and is enjoying a tranquil life in Jamaica. His peace is shattered when his old friend, CIA agent Felix Leiter, appears asking for help. The mission to rescue a kidnapped scientist turns out to be far more treacherous than expected, leading Bond on the trail of a ruthless villain who's armed with a mysterious new technology that could pose a global threat. Forced to confront ghosts from his past, Bond must team up with Nomi, a new female 00 agent, to confront the villain and save the world.", 
+  "trailer": {
+    "url": "https://www.example.com/no-time-to-die-trailer", 
+    "source": "YouTube"
+  },
+  "critic_reviews": [
+    {
+      "source": "Rotten Tomatoes",
+      "score": "83%"
+    },
+    {
+      "source": "Metacritic",
+      "score": "68/100"
+    }
+  ]
+},
+{
+  "_id": 34,
+  "title": "The Queen's Gambit",
+  "poster_path":"https://static.posters.cz/image/1300/poster/queens-gambit-key-art-i102471.jpg",
+  "release_date": "2020-10-23",
+  "genre": ["Drama"],
+  "overview": "Orphaned at the tender age of nine, prodigious introvert Beth Harmon discovers and masters the game of chess in 1960s USA.",
+  "rating": 8.6,
+  "type": "TV Series",
+  "creator": "Scott Frank", 
+  "cast": [
+    "Anya Taylor-Joy",
+    "Isla Johnston",
+    "Bill Camp",
+    "Moses Ingram",
+    "Marielle Heller" 
+  ],
+  "seasons": 1, 
+  "episodes": 7, 
+  "synopsis": "In the mid-1950s, a young orphan named Beth Harmon discovers an astonishing talent for chess while at a Kentucky orphanage. Haunted by personal demons and fueled by a potent cocktail of tranquilizers, Beth embarks on a troubled yet triumphant journey to become the world's greatest chess player, battling addiction and the Cold War along the way. The Queen's Gambit explores the genius and cost of dedication, the addictive nature of glory, and the sacrifices required for success.", 
+  "trailer": {
+    "url": "[invalid URL removed]", 
+    "source": "YouTube"
+  },
+  "awards": [
+    "Primetime Emmy Award for Outstanding Limited Series"
+  ]
+},
+{
+  "_id": 35,
+  "title": "Black Widow",
+  "poster_path":"https://images-cdn.ubuy.co.in/634eff3dd353f87b78610b7d-black-widow-marvel-movie-poster.jpg",
+  "release_date": "2021-07-09",
+  "genre": ["Action", "Adventure", "Sci-Fi"],
+  "overview": "Natasha Romanoff confronts the darker parts of her ledger when a dangerous conspiracy with ties to her past arises.",
+  "rating": 6.8,
+  "type": "Movie",
+  "director": "Cate Shortland", 
+  "cast": [
+    "Scarlett Johansson",
+    "Florence Pugh",
+    "David Harbour",
+    "O. T. Fagbenle",
+    "Rachel Weisz",
+    "Ray Winstone" 
+  ],
+  "runtime": 134, 
+  "synopsis": "Natasha Romanoff, aka Black Widow, as she confronts the darker parts of her past and a new threat. Following the events of Avengers: Endgame, Natasha finds herself alone and forced to confront the fallout of her past. A dangerous conspiracy with ties to her former life as a KGB assassin emerges, forcing her to deal with unfinished business and reunite with old friends, including Yelena Belova, a fellow Black Widow, and Alexei Shostakov, a former KGB agent who posed as her father. Together, they must confront a powerful force from their past and stop a deadly new threat.", 
+  "trailer": {
+    "url": "https://www.example.com/black-widow-trailer", 
+    "source": "YouTube"
+  },
+  "critic_reviews": [
+    {
+      "source": "Rotten Tomatoes",
+      "score": "80%"
+    },
+    {
+      "source": "Metacritic",
+      "score": "67/100"
+    }
+  ]
+},
+{
+  "_id": 36,
+  "title": "Ted Lasso",
+  "poster_path":"https://m.media-amazon.com/images/I/71MS5lzPOUL._AC_UF1000,1000_QL80_.jpg",
+  "release_date": "2020-08-14",
+  "genre": ["Comedy", "Drama", "Sport"],
+  "overview": "Follows an American football coach who heads to the UK to manage a struggling London soccer team in the top flight of English football.",
+  "rating": 8.7,
+  "type": "TV Series",
+  "creators": ["Jason Sudeikis", "Bill Lawrence", "Brendan Hunt"],
+  "cast": [
+    "Jason Sudeikis",
+    "Hannah Waddingham",
+    "Brendan Hunt",
+    "Jeremy Swift",
+    "Juno Temple",
+    "Brett Goldstein" 
+  ],
+  "seasons": 2, 
+  "episodes": 22, 
+  "synopsis": "Ted Lasso is an American college football coach with zero experience in English soccer. Despite his lack of knowledge, he is hired to manage AFC Richmond, a struggling Premier League team owned by Rebecca Welton, a ruthless businesswoman who wants to destroy the club to spite her ex-husband. With his infectious optimism, folksy wisdom, and unwavering belief in his team, Ted Lasso overcomes skepticism and challenges as he tries to win over the players, staff, and fans of AFC Richmond.", 
+  "trailer": {
+    "url": "[invalid URL removed]",
+    "source": "YouTube"
+  },
+  "awards": [
+    "Primetime Emmy Award for Outstanding Comedy Series"
+  ]
+},
+{
+  "_id": 37,
+  "title": "Shang-Chi and the Legend of the Ten Rings",
+  "poster_path":"https://cdn.marvel.com/content/1x/shangchi_lob_crd_07.jpg",
+  "release_date": "2021-09-03",
+  "genre": ["Action", "Adventure", "Fantasy"],
+  "overview": "Shang-Chi, the master of weaponry-based Kung Fu, is forced to confront his past after being drawn into the Ten Rings organization.",
+  "rating": 7.4,
+  "type": "Movie",
+  "director": "Destin Daniel Cretton", 
+  "cast": [
+    "Simu Liu",
+    "Tony Leung Chiu-wai",
+    "Awkwafina",
+    "Meng'er Zhang",
+    "Florian Munteanu",
+    "Benedict Wong",
+    "Michelle Yeoh"
+  ],
+  "runtime": 132, 
+  "synopsis": "Shang-Chi, a seemingly ordinary valet living in San Francisco, is drawn into the clandestine world of the Ten Rings organization. Shang-Chi must confront the past he thought he left behind when he's forced to face his father, Wenwu, the leader of the Ten Rings. Together with his friend Katy and his estranged sister Xialing, Shang-Chi must learn to embrace his destiny and uncover the true power within him.", 
+  "trailer": {
+    "url": "https://www.example.com/shang-chi-trailer", 
+    "source": "YouTube"
+  },
+  "critic_reviews": [
+    {
+      "source": "Rotten Tomatoes",
+      "score": "94%"
+    },
+    {
+      "source": "Metacritic",
+      "score": "75/100"
+    }
+  ]
+},
+{
+  "_id": 38,
+  "title": "The Handmaid's Tale",
+  "poster_path":"https://mir-s3-cdn-cf.behance.net/project_modules/hd/c1943a75936535.5c5b5616d184e.jpg",
+  "release_date": "2017-04-26",
+  "genre": ["Drama", "Sci-Fi", "Thriller"],
+  "overview": "Set in a dystopian future, a woman is forced to live as a concubine under a fundamentalist theocratic dictatorship.",
+  "rating": 8.4,
+  "type": "TV Series",
+  "creator": "Bruce Miller", 
+  "cast": [
+    "Elisabeth Moss",
+    "Yvonne Strahovski",
+    "Joseph Fiennes",
+    "Alexis Bledel",
+    "Madeline Brewer",
+    "Ann Dowd",
+    "O. T. Fagbenle" 
+  ],
+  "seasons": 5, 
+  "episodes": 49,
+  "synopsis": "In the dystopian future of Gilead, June Osborne is one of the few remaining fertile women forced to be a Handmaid, bearing children for the ruling class. Defying the brutal regime, June risks her life to fight for freedom and reunite with her kidnapped daughter. The Handmaid's Tale explores themes of oppression, resistance, and the search for identity in a totalitarian state.",
+  "trailer": {
+    "url": "[invalid URL removed]",
+    "source": "YouTube"
+  },
+  "awards": [
+    "Primetime Emmy Award for Outstanding Drama Series"
+  ]
+},
+{
+  "_id": 41,
+  "title": "The Falcon and the Winter Soldier",
+  "poster_path":"https://m.media-amazon.com/images/I/91q0MIZ7iRL.jpg",
+  "release_date": "2021-03-19",
+  "genre": ["Action", "Adventure", "Drama"],
+  "overview": "Following the events of 'Avengers: Endgame', Sam Wilson/Falcon and Bucky Barnes/Winter Soldier team up in a global adventure that tests their abilities and their patience.",
+  "rating": 7.7,
+  "type": "TV Series",
+  "creator": "Malcolm Spellman",
+  "cast": [
+    "Anthony Mackie",
+    "Sebastian Stan",
+    "Wyatt Russell",
+    "Erin Kellyman",
+    "Danny Ramirez",
+    "Emily VanCamp",
+    "Georges St-Pierre"
+  ],
+  "seasons": 1,
+  "episodes": 6,
+  "synopsis": "Following the events of 'Avengers: Endgame', Sam Wilson/Falcon and Bucky Barnes/Winter Soldier team up in a global adventure that tests their abilities and their patience. As they confront new threats and old enemies, they must navigate personal challenges and evolving dynamics in a post-blip world.",
+  "trailer": {
+    "url": "https://www.youtube.com/watch?v=IWBsDaFWyTE",
+    "source": "YouTube"
+  },
+  "awards": [
+    "Primetime Emmy Award for Outstanding Stunt Coordination"
+  ]
+},
+{
+  "_id": 42,
+  "title": "Loki",
+  "poster_path":"https://m.media-amazon.com/images/I/71xEHr4zwfL.jpg",
+  "release_date": "2021-06-09",
+  "genre": ["Action", "Adventure", "Fantasy"],
+  "overview": "The mercurial villain Loki resumes his role as the God of Mischief in a new series that takes place after the events of 'Avengers: Endgame'.",
+  "rating": 8.3,
+  "type": "TV Series",
+  "creator": "Michael Waldron",
+  "cast": [
+    "Tom Hiddleston",
+    "Owen Wilson",
+    "Gugu Mbatha-Raw",
+    "Sophia Di Martino",
+    "Wunmi Mosaku",
+    "Eugene Cordero",
+    "Tara Strong"
+  ],
+  "seasons": 1,
+  "episodes": 6,
+  "synopsis": "After stealing the Tesseract during the events of 'Avengers: Endgame,' Loki finds himself captured by the Time Variance Authority (TVA), an organization that monitors the timeline. Forced to help fix the broken timeline, Loki embarks on a journey through time and space, encountering alternate versions of himself and uncovering shocking secrets about the universe.",
+  "trailer": {
+    "url": "https://www.youtube.com/watch?v=nW948Va-l10",
+    "source": "YouTube"
+  },
+  "awards": [
+    "Primetime Emmy Award for Outstanding Original Main Title Theme Music"
+  ]
+},
+{
+  "_id": 43,
+  "title": "Cruella",
+  "poster_path":"https://lumiere-a.akamaihd.net/v1/images/p_cruella_21672_ba40c762.jpeg",
+  "release_date": "2021-05-28",
+  "genre": ["Comedy", "Crime"],
+  "overview": "A live-action prequel feature film following a young Cruella de Vil.",
+  "rating": 7.4,
+  "type": "Movie",
+  "director": "Craig Gillespie",
+  "cast": [
+    "Emma Stone",
+    "Emma Thompson",
+    "Joel Fry",
+    "Paul Walter Hauser",
+    "Emily Beecham",
+    "Mark Strong",
+    "Kirby Howell-Baptiste"
+  ],
+  "synopsis": "In 1970s London, young Estella dreams of becoming a fashion designer but ends up embracing her wicked side as she transforms into the notorious Cruella de Vil. Navigating a path of revenge against the Baroness von Hellman, her former mentor, Estella's journey is one of ambition, creativity, and rebellion, leading her to become the iconic villain we know.",
+  "trailer": {
+    "url": "https://www.youtube.com/watch?v=gmRKv7n2If8",
+    "source": "YouTube"
+  },
+  "awards": [
+    "Academy Award for Best Costume Design"
+  ]
+},
+{
+  "_id": 44,
+  "title": "Eternals",
+  "poster_path":"https://cdn.marvel.com/content/1x/online_10.jpg",
+  "release_date": "2021-11-05",
+  "genre": ["Action", "Adventure", "Drama"],
+  "overview": "The saga of the Eternals, a race of immortal beings who lived on Earth and shaped its history and civilizations.",
+  "rating": 6.8,
+  "type": "Movie",
+  "director": "Chloé Zhao",
+  "cast": [
+    "Gemma Chan",
+    "Richard Madden",
+    "Angelina Jolie",
+    "Salma Hayek",
+    "Kumail Nanjiani",
+    "Lia McHugh",
+    "Brian Tyree Henry"
+  ],
+  "synopsis": "The Eternals, an immortal alien race created by the Celestials, have secretly lived on Earth for thousands of years. When the Deviants, monstrous creatures long thought gone, re-emerge, the Eternals are forced out of the shadows to reunite and defend humanity once again, revealing their hidden past and shaping the future of the Marvel Cinematic Universe.",
+  "trailer": {
+    "url": "https://www.youtube.com/watch?v=0WVDKZJkGlY",
+    "source": "YouTube"
+  },
+  "awards": [
+    "Visual Effects Society Award for Outstanding Visual Effects"
+  ]
+},
+{
+  "_id": 45,
+  "title": "The White Lotus",
+  "poster_path":"https://lh6.googleusercontent.com/proxy/WbGdAcz4balCLwuMdUZeOG-LYjp_9uyYPFVrS9r99GM5L07cXSw5yCj6OwJt2_kcg_IT2235vpwJvXcjdDmQqP0Y9W3_wQ",
+  "release_date": "2021-07-11",
+  "genre": ["Comedy", "Drama"],
+  "overview": "Set in a tropical resort, it follows the exploits of various guests and employees over the span of a week.",
+  "rating": 7.6,
+  "type": "TV Series",
+  "creator": "Mike White",
+  "cast": [
+    "Murray Bartlett",
+    "Connie Britton",
+    "Jennifer Coolidge",
+    "Alexandra Daddario",
+    "Fred Hechinger",
+    "Jake Lacy",
+    "Steve Zahn"
+  ],
+  "seasons": 1,
+  "episodes": 6,
+  "synopsis": "At the luxurious White Lotus resort, the lives of the guests and staff intertwine over a tumultuous week filled with intrigue, secrets, and unexpected drama. As tensions rise and masks slip, each character's true self is revealed, offering a satirical look at privilege and the complexities of modern life.",
+  "trailer": {
+    "url": "https://www.youtube.com/watch?v=TGLq7_MonZ4",
+    "source": "YouTube"
+  },
+  "awards": [
+    "Primetime Emmy Award for Outstanding Limited or Anthology Series"
+  ]
+},
+{
+  "_id": 47,
+  "title": "Foundation",
+  "poster_path":"https://image.tmdb.org/t/p/original/1AZERr7KEJBpcchQ6vFcbUUC0Zw.jpg",
+  "release_date": "2021-09-24",
+  "genre": ["Drama", "Sci-Fi"],
+  "overview": "A complex saga of humans scattered on planets throughout the galaxy all living under the rule of the Galactic Empire.",
+  "rating": 7.4,
+  "type": "TV Series",
+  "creator": "David S. Goyer",
+  "cast": [
+  "Jared Harris",
+  "Lee Pace",
+  "Lou Llobell",
+  "Leah Harvey",
+  "Laura Birn",
+  "Terrence Mann",
+  "Cassian Bilton"
+  ],
+  "seasons": 2,
+  "episodes": 20,
+  "synopsis": "Based on Isaac Asimov's groundbreaking novels, 'Foundation' chronicles the epic journey of a band of exiles tasked with saving the Galactic Empire from its prophesied collapse. As they navigate political intrigue and revolutionary ideas, they must challenge the established order to forge a new path for humanity's future.",
+  "trailer": {
+  "url": "https://www.youtube.com/watch?v=X4QYV5GTz7c",
+  "source": "YouTube"
+  },
+  "awards": [
+  "Primetime Emmy Award for Outstanding Special Visual Effects in a Season or a Movie"
+  ]
+},
+{
+    "_id": 48,
+    "title": "Red Notice",
+    "poster_path":"https://image.tmdb.org/t/p/original/jLfyJuRsFcDflYHCcEfAmFKRaRS.jpg",
+    "release_date": "2021-11-12",
+    "genre": ["Action", "Comedy", "Crime"],
+    "overview": "An Interpol agent tracks the world's most wanted art thief.",
+    "rating": 6.3,
+    "type": "Movie",
+    "director": "Rawson Marshall Thurber",
+    "cast": [
+    "Dwayne Johnson",
+    "Ryan Reynolds",
+    "Gal Gadot",
+    "Ritu Arya",
+    "Chris Diamantopoulos"
+    ],
+    "runtime": 118,
+    "synopsis": "When an Interpol agent pursues the world's most wanted art thief, he finds himself reluctantly teaming up with a rival thief to catch an elusive crook who's always one step ahead. As the high-stakes heist unfolds, the trio travels the globe in a thrilling game of cat and mouse.",
+    "trailer": {
+    "url": "https://www.youtube.com/watch?v=Pj0wz7zu3Ms",
+    "source": "YouTube"
+    }
+},
+{
+  "_id": 49,
+  "title": "Don't Look Up",
+  "poster_path": "https://goldenglobes.com/wp-content/uploads/2023/10/mv5bnjzjnde1ntytytgwzs00m2vmlweyodktm2flnjhiytk3ogu2xkeyxkfqcgdeqxvymteymjm2ndc2._v1_.jpg", 
+  "release_date": "2021-12-24",
+  "genre": ["Comedy", "Drama", "Sci-Fi"],
+  "overview": "Two low-level astronomers must go on a giant media tour to warn mankind of an approaching comet that will destroy planet Earth.",
+  "rating": 7.2,
+  "type": "Movie",
+  "director": "Adam McKay", 
+  "cast": [
+    "Leonardo DiCaprio",
+    "Jennifer Lawrence",
+    "Meryl Streep",
+    "Cate Blanchett",
+    "Rob Morgan",
+    "Jonah Hill",
+    "Mark Rylance",
+    "Tyler Perry",
+    "Timothée Chalamet",
+    "Ariana Grande"
+  ],
+  "seasons": null,
+  "episodes": null,
+  "synopsis": "When a pair of astronomers discover a comet rapidly approaching Earth, they embark on a media tour to sound the alarm about humanity’s impending extinction. Despite their efforts, they are met with an apathetic public and media obsessed with social media trends and celebrity gossip.",
+  "trailer": {
+    "url": "https://www.youtube.com/watch?v=SL9aJcqrtnw",
+    "source": "YouTube"
+  },
+  "awards": [
+    "AFI Movie of the Year",
+    "Nominated for 4 Academy Awards"
+  ],
+  "trending": false,
+  "popular": true
+},
+{
+      "_id": 50,
+      "title": "Hawkeye",
+      "poster_path":"https://image.tmdb.org/t/p/original/5BxY6UN0e7wAE5LUQVVj39JAItM.jpg",
+      "release_date": "2021-11-24",
+      "genre": ["Action", "Adventure", "Crime"],
+      "overview": "Series based on the Marvel Comics superhero Hawkeye, centering on the adventures of Young Avenger, Kate Bishop, who took on the role after the original Avenger, Clint Barton.",
+      "rating": 7.8,
+      "type": "TV Series",
+      "creator": "Jonathan Igla",
+      "cast": [
+        "Jeremy Renner",
+        "Hailee Steinfeld",
+        "Vera Farmiga",
+        "Florence Pugh",
+        "Tony Dalton",
+        "Alaqua Cox",
+        "Fra Fee"
+      ],
+      "seasons": 1,
+      "episodes": 6,
+      "synopsis": "Following the events of 'Avengers: Endgame,' Clint Barton, also known as Hawkeye, is trying to enjoy a peaceful Christmas with his family. However, when his past catches up with him, he teams up with a young archer, Kate Bishop, to confront enemies from his former life and uncover a criminal conspiracy. Together, they must survive the holiday season while facing powerful foes.",
+      "trailer": {
+        "url": "https://www.youtube.com/watch?v=5VYb3B1ETlk",
+        "source": "YouTube"
+      },
+      "awards": [
+        "Saturn Award for Best Superhero Television Series"
+      ]
+},  
+{
+    "_id": 51,
+    "title": "Encanto",
+    "poster_path":"https://image.tmdb.org/t/p/original/7M8bMABEbhGkC6z36WEsDttDk6F.jpg",
+    "release_date": "2021-11-24",
+    "genre": ["Animation", "Comedy", "Family"],
+    "overview": "A young Colombian girl has to face the frustration of being the only member of her family without magical powers.",
+    "rating": 7.9,
+    "type": "Movie",
+    "director": "Byron Howard, Jared Bush",
+    "cast": [
+      "Stephanie Beatriz",
+      "María Cecilia Botero",
+      "John Leguizamo",
+      "Mauro Castillo",
+      "Jessica Darrow",
+      "Angie Cepeda",
+      "Wilmer Valderrama"
+    ],
+    "synopsis": "In the mountains of Colombia, the magical Madrigal family lives in a wondrous house called the Encanto. Each child in the family has been blessed with a unique gift—except for Mirabel. When she discovers that the magic surrounding the Encanto is in danger, Mirabel realizes that she might be her family's last hope and embarks on a journey to save the magic and her family.",
+    "trailer": {
+      "url": "https://www.youtube.com/watch?v=CaimKeDcudo",
+      "source": "YouTube"
+    },
+    "awards": [
+      "Academy Award for Best Animated Feature"
+    ]
+}
+]
