@@ -20,7 +20,13 @@ app.use(express.static(publicPath));
 
 //middleware
 app.use(express.json());
-app.use(cors());
+app.use(
+  cors({
+    origin: ["https://deploy-mern-1wq.vercel.app"],
+    methods: ["POST", "GET"],
+    credentials: true,
+  })
+);
 app.use(cookieParser());
 
 //Routes
