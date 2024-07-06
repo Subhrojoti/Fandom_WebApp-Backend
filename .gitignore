@@ -1,0 +1,9 @@
+node_modules
+.env
+node.node_modulesschema.md
+detailsData.json
+detailsExport.js
+fandomData.js
+fandomData.json
+note.md
+schema.md
