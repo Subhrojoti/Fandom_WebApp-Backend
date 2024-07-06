@@ -35,9 +35,10 @@ This project is a media database platform and video-sharing application inspired
 │   └── index.js
 └── README.md
 
+
 ## Setup environment variables
 
-- PORT = your_port
+PORT = your_port
 
 MONGODB_URI = your_mongoDB_URL
 
