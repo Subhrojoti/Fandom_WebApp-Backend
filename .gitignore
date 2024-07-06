@@ -1,7 +1,6 @@
 node_modules
 .env
 .gitignore
-node.node_modulesschema.md
 detailsData.json
 detailsExport.js
 fandomData.js
